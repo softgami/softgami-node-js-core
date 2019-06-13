@@ -1,0 +1,1 @@
+# softgami-node-js-core
